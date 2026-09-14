@@ -1,8 +1,8 @@
-# Aptlantis Blue Slate
+# Aptlantis BlueSlate
 
-A dark SiYuan translation of the Aptlantis Blue Slate design system.
+A dark SiYuan translation of the Aptlantis BlueSlate design system.
 
-Blue Slate uses layered navy neutrals to carry the workspace, reserving saturated colors for interaction, focus, semantic status, graph roles, and editorial meaning. The SiYuan translation gives the toolbar, docks, editor, tabs, menus, databases, and code distinct but related surfaces so the hierarchy remains visible at rest.
+BlueSlate uses layered navy neutrals to carry the workspace, reserving saturated colors for interaction, focus, semantic status, graph roles, and editorial meaning. The SiYuan translation gives the toolbar, docks, editor, tabs, menus, databases, and code distinct but related surfaces so the hierarchy remains visible at rest.
 
 ## Source Material
 
