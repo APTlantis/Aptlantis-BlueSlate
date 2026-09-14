@@ -1,0 +1,31 @@
+{
+  "name": "aptlantis-blue-slate",
+  "author": "Aptlantis",
+  "url": "https://github.com/APTlantis/Aptlantis-BlueSlate",
+  "version": "0.2.0",
+  "minAppVersion": "3.7.0",
+  "displayName": {
+    "default": "Aptlantis Blue Slate"
+  },
+  "description": {
+    "default": "A dark SiYuan translation of Aptlantis Blue Slate with layered workspace surfaces, persistent hierarchy, and native syntax highlighting."
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "modes": [
+    "dark"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "keywords": [
+    "aptlantis",
+    "blue slate",
+    "dark",
+    "navy",
+    "cyan"
+  ]
+}
